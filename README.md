@@ -10,3 +10,7 @@ XAI:
 https://drive.google.com/file/d/15F0rptJto0OeqksM8VasdK4wJcaaQass/view?usp=sharing
 https://docs.google.com/presentation/d/1UpudwerA3CR26taDou6UrMOZwnjui1fw/edit?usp=sharing&ouid=113077993810828206774&rtpof=true&sd=true
 
+26-Sep-2026: Data Pipelines
+https://miro.com/app/board/uXjVHifJ9bY=/?share_link_id=885898333219
+
+
