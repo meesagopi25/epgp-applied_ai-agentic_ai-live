@@ -14,5 +14,9 @@ https://docs.google.com/presentation/d/1UpudwerA3CR26taDou6UrMOZwnjui1fw/edit?us
 https://miro.com/app/board/uXjVHifJ9bY=/?share_link_id=885898333219
 https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F4rq466utjqzmkvt5jjrz.png
 
+03-Oct-2026: ML Pipelines
+https://colab.research.google.com/drive/19VJsNJbWrviIzrqpIqycirIr-N_vxg_m?usp=sharing
+
+
 
 
