@@ -16,6 +16,8 @@ https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravi
 
 03-Oct-2026: ML Pipelines
 https://colab.research.google.com/drive/19VJsNJbWrviIzrqpIqycirIr-N_vxg_m?usp=sharing
+https://colab.research.google.com/drive/19VJsNJbWrviIzrqpIqycirIr-N_vxg_m?usp=sharing#scrollTo=ZFbhLkObqSUQ
+
 
 
 
