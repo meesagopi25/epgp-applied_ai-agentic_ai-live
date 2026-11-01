@@ -30,6 +30,10 @@ https://colab.research.google.com/drive/13qiLfwU20v3lG5oKRQVqkmgVU7qqyv8-?usp=sh
 17-Oct-2026:
 https://drive.google.com/drive/folders/1XM8TRv6PyPj4NhvUqabX56NvV5B3D9Bg?usp=drive_link
 
+1-Nov-2026:
+https://drive.google.com/drive/folders/1BuG8kJg9ksd0Eg0bteQfmZw1afINqDoW?usp=sharing
+
+
 
 
 
